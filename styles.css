@@ -465,7 +465,8 @@ font-weight: bold;
 
   .skills{
     width:5rem;
-    height: 5rem;
+    height: 4rem;
+    margin:10px;
   }
 }
 
