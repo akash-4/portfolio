@@ -242,6 +242,7 @@ font: size 5rem;;
   .Heading {font-size:35px}
   .photo h1 { font-size: 40px; }
 .photo{
+  justify-content: center;
   padding-top: 10%;
   padding-left: 30%;
 }
