@@ -237,25 +237,6 @@ font: size 5rem;;
 
 
 
-@media (max-width:767.98px) {
-  
-  .Heading {font-size:35px}
-  .photo h1 { font-size: 40px; }
-.photo{
-  justify-content: center;
-  padding-top: 10%;
-  padding-left: 20vw;
-}
-.about p{
-  padding-top: 10%;
-  text-align:center;
-  height: 50vh  !important;
-}
-
-}
-@media (min-width: 768px) {
-}
-
 .skills-top{
   
   margin-top:5vh;
@@ -272,7 +253,6 @@ font: size 5rem;;
   padding-bottom: 5vh;
 }
 .skills{
-  display: flex;
   align-items: center;
   justify-content: center;
   height: 8rem;
@@ -439,6 +419,26 @@ font-weight: bold;
 }
 .coolStuff{
   color: #333;
+}
+
+
+@media (max-width:767.98px) {
+  
+  .Heading {font-size:35px}
+  .photo h1 { font-size: 40px; }
+.photo{
+  justify-content: center;
+  padding-top: 10%;
+  padding-left: 20vw;
+}
+.about p{
+  padding-top: 10%;
+  text-align:center;
+  height: 50vh  !important;
+}
+.skills{
+ 
+}
 }
 @media screen and (max-width: 768px) {
 	.project_container {
