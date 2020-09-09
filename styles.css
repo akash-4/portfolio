@@ -177,7 +177,6 @@ font: size 5rem;;
   
   margin-top:3vh;
   position: relative;
-  min-height: 50vh;
   /* width: 100vw; */
   /* align-content: center; */
   /* background: url("./images/about.jpg"); */
@@ -214,7 +213,7 @@ font: size 5rem;;
 
 .photo{
   position: relative;
-  padding-top: 5%;
+  padding-top: 15%;
   padding-left: 15%;
   display: block;
 }
