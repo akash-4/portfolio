@@ -20,6 +20,8 @@ function Skills(props) {
         }
         </div>
       </div>
+      <br/>
+      <p className="coolStuff skills-more" >...many more</p>
     </div>
     </section>
   );

@@ -9,19 +9,17 @@ function About(props) {
       </div>
       <div className="container">
         <div className="row">
-          <div className="col-lg-6">
-            <a href="#" className="photo">
-              <h1>Akash Agarwal</h1>
+          <div className="col-md-6">
+            <a  className="photo">
+              <h1>Akash</h1>
 
               <img src="images/me.jpeg" />
             </a>
           </div>
 
-          <div className="col-lg-6">
-            <p>
-              I am a Full Stack Developer and UI/UX designer.I am very passionate about Mobile application and Web development
-              and I love to code 
-
+          <div className="col-md-6">
+            <p><strong class="im">I'm a</strong><br/><strong>Application Developer | FullStack Developer | Flutter Developer | Robotics Enthusiast</strong>
+             <br/><br/>Currently working as a <span class="yellow sd">Software Developer</span> at <span class="yellow sd"> Bottle Co.</span>
             </p>
           </div>
         </div>
