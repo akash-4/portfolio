@@ -184,7 +184,8 @@ font: size 5rem;;
   /* background-size:100vw 80vh; */
   background-color:#333333;
   z-index: 0;
-  padding-top: 5vh;
+  padding-top: 0vh;
+  padding-bottom: 10vh;
 }
 
 .photo h1{
@@ -204,16 +205,16 @@ font: size 5rem;;
   justify-content: center;
   align-content: center;
   color:  #fff;
-  margin-top: 25px;
+  padding-top: 25%;
   font-weight: 400;
   font-size: 25px;
-  min-height: 50vh;
+  height: 50vh;
 }
 
 
 .photo{
   position: relative;
-  padding-top: 5%;
+  padding-top: 25%;
   padding-left: 15%;
   display: block;
 }
@@ -246,9 +247,11 @@ font: size 5rem;;
 }
 .about{
   font-size: 36px;
+  
 }
 .about p{
   text-align:center;
+  height: 30vh;
 }
 
 }
