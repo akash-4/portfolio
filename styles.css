@@ -175,7 +175,7 @@ font: size 5rem;;
 
 .about{
   
-  margin-top:5vh;
+  margin-top:3vh;
   position: relative;
   min-height: 50vh;
   /* width: 100vw; */
@@ -185,7 +185,7 @@ font: size 5rem;;
   /* background-size:100vw 80vh; */
   background-color:#333333;
   z-index: 0;
-  padding-bottom: 5vh;
+  padding-top: 5vh;
 }
 
 .photo h1{
@@ -208,6 +208,7 @@ font: size 5rem;;
   margin-top: 25px;
   font-weight: 400;
   font-size: 25px;
+  min-height: 50vh;
 }
 
 
@@ -236,13 +237,16 @@ font: size 5rem;;
 
 
 
-@media (max-width: 767.98px) {
+@media (max-width:700.98px) {
   .Heading {font-size:35px}
   .photo h1 { font-size: 40px; }
 .photo{
   justify-content: center;
   padding-top: 10%;
-  padding-left: 30%;
+  padding-left: 50vw;
+}
+.about{
+  height: 2vh;
 }
 .about p{
   text-align:center;
@@ -306,6 +310,7 @@ font-weight: bold;
 	border-radius: 2px;
 	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25), 0 8px 8px 0 rgba(0, 0, 0, 0.15);
   margin: 20px 0;
+  justify-content: center;
   
 }
 .project_container:hover{
@@ -434,7 +439,7 @@ font-weight: bold;
 .coolStuff{
   color: #333;
 }
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 768px) {
 	.project_container {
 		width: 100%;
 		height: 480px;
@@ -478,4 +483,7 @@ font-weight: bold;
   text-align: center;
   font-size: 13px;
   color: #ddd;
+}
+.yellow{
+  color: #ffe509;
 }
