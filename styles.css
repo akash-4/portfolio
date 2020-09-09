@@ -211,6 +211,32 @@ font: size 5rem;;
   height: 50vh;
 }
 
+.about p strong{
+  /* position: absolute; */
+ color: #ddd;
+  font-weight: 900;
+}
+
+.about p .im{
+  /* position: absolute; */
+ 
+  color:  #ffe509;
+  font-weight: 900;
+  font-size: 45px;
+}
+.about .sd{
+  
+  font-weight: 900;
+}
+.about ul{
+  /* position: absolute; */
+  z-index: 1;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  justify-content: center;
+  align-content: center;
+  color:  #fff;
+}
 
 .photo{
   position: relative;
@@ -492,4 +518,8 @@ font-weight: bold;
 }
 .yellow{
   color: #ffe509;
+}
+.coolStuff{
+  font-weight: 900;
+  opacity: .3;
 }
