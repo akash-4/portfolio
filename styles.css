@@ -437,7 +437,8 @@ font-weight: bold;
   height: 50vh  !important;
 }
 .skills{
- 
+ width: 5rem;
+ height: 5rem;
 }
 }
 @media screen and (max-width: 768px) {
