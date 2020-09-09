@@ -247,6 +247,7 @@ font: size 5rem;;
 }
 .about{
   height: 25vh;
+  font-size: 36px;
 }
 .about p{
   text-align:center;
