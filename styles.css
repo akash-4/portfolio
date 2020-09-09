@@ -237,16 +237,16 @@ font: size 5rem;;
 
 
 
-@media (max-width:700.98px) {
+@media (max-width:900.98px) {
   .Heading {font-size:35px}
   .photo h1 { font-size: 40px; }
 .photo{
   justify-content: center;
   padding-top: 10%;
-  padding-left: 50vw;
+  padding-left: 30vw;
 }
 .about{
-  height: 2vh;
+  height: 25vh;
 }
 .about p{
   text-align:center;
