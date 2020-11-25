@@ -38,7 +38,7 @@ function App() {
             <Projects title="NoteKeeper" img="images/a.png" desc="Simple WebApp for maintaing notes." tech="MongoDB | Express | React | NodeJS" />
             <Projects title="Dice Game" img="images/dice.png" desc="A minimilistic Game designed for all kinds of people to decide winner between the two by throwing a dice." tech="HTML | CSS | JS" />
             <Projects title="Simon Game" img="images/simon.png" desc="The Famous Simon Game. Test your memory through this game. " tech="HTML | CSS | JS" />
-            <Projects title="Warehouse Management App" img="images/jd.jpg" desc="A Warehouse Management App build for JD Bazaar which offers complete solution to all warehouse management related things. " tech="Flutter | Firebase" />
+            <Projects title="Warehouse Management App" img="images/jd.jpg" desc="An app build for JD Bazaar which offers complete solution to all warehouse management related things. " tech="Flutter | Firebase" />
 
           </div> : <div className="container projects">
           <Projects title="FilmGenie" img="images/filmgenie.png" desc="The most happening movie community for movie geeks." tech="Flutter | Firebase" />
