@@ -1,7 +1,7 @@
 import React from "react";
 import SkillBox from "./SkillBox";
 function Skills(props) {
-  var a=["Flutter","Firebase","HTML","CSS","JS","mongoDB","Express","React","NodeJS","C++","C","Git","Dart","Figma","XD","PS","jQuery","Bootstrap"];
+  var a=["Flutter","Firebase","HTML","CSS","JS","mongoDB","Express","React","NodeJS","C++","C","Git","Dart","Figma","XD","PS","jQuery","Bootstrap", "AWS", "Sockets"];
   
 
   return (
